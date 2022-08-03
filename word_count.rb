@@ -12,8 +12,8 @@ class Phrase
         @phrase = phrase
     end
 
-    # Returns a Hash of each individual word
-    # in the phrase mapped to the total number of times it occurrs.
+    # Returns a Hash of each individual word in the phrase
+    # mapped to the total number of times it occurred.
     # 
 
     def word_count
